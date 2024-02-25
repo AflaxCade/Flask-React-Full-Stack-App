@@ -15,3 +15,10 @@ Flask-React-Full-Stack-App is a full-stack web application that leverages the po
 - React: A JavaScript library for building user interfaces.
 - RESTful API: Enables communication and data exchange between the frontend and backend.
 - SQLite: A lightweight and easy-to-use relational database used for storing contact information.
+
+## Installation
+
+### Requirements
+
+- Python 3.x
+- node 20.x
