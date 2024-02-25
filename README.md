@@ -30,3 +30,15 @@ Flask-React-Full-Stack-App is a full-stack web application that leverages the po
 ```bash
 git clone https://github.com/AflaxCade/Flask-React-Full-Stack-App.git
 ```
+
+2. Navigate to the project directory:
+
+```bash
+cd backend
+```
+
+3. Create a virtual environment:
+
+```bash
+python -m venv venv
+```
