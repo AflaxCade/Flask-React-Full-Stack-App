@@ -95,7 +95,7 @@ The API will be accessible at http://127.0.0.1:5000/.
   - Status Code: 201 (Created)
   - Body: JSON object with a success message
  
-Here Json
+Here is Json example for creating new contact
 
 ```json
 {
