@@ -8,3 +8,10 @@ Flask-React-Full-Stack-App is a full-stack web application that leverages the po
 - Backend with Flask: The backend is powered by Flask, a lightweight and versatile Python web framework, providing a robust and scalable foundation for data management.
 - Frontend with React: The frontend is built using React, a modern JavaScript library for building user interfaces. React enables a dynamic and responsive user experience.
 - RESTful API: The communication between the frontend and backend is facilitated by a RESTful API, ensuring efficient data exchange and seamless integration between the two layers of the application.
+
+## Technologies Used
+
+- Flask: A Python web framework for building web applications.
+- React: A JavaScript library for building user interfaces.
+- RESTful API: Enables communication and data exchange between the frontend and backend.
+- SQLite: A lightweight and easy-to-use relational database used for storing contact information.
