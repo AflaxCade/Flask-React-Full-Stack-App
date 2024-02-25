@@ -68,3 +68,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+The API will be accessible at http://127.0.0.1:5000/.
