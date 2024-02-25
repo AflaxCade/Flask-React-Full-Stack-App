@@ -70,3 +70,15 @@ python main.py
 ```
 
 The API will be accessible at http://127.0.0.1:5000/.
+
+## API Endpoints
+
+### Get Contacts
+
+- **URL**: `/contacts`
+- **Method**: GET
+- **Description**: Retrieves all contacts
+- **Response**:
+  - Status Code: 200 (OK)
+  - Body: JSON object containing a list of contacts
+
