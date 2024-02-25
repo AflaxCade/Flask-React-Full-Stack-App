@@ -82,3 +82,25 @@ The API will be accessible at http://127.0.0.1:5000/.
   - Status Code: 200 (OK)
   - Body: JSON object containing a list of contacts
 
+### Create Contact
+
+- **URL**: `/create_contact`
+- **Method**: POST
+- **Description**: Creates a new contact
+- **Request Body**: JSON object with the following properties:
+  - `firstName` (string): First name of the contact (required)
+  - `lastName` (string): Last name of the contact (required)
+  - `email` (string): Email address of the contact (required)
+- **Response**:
+  - Status Code: 201 (Created)
+  - Body: JSON object with a success message
+ 
+Here Json
+
+```bash
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com"
+}
+```
