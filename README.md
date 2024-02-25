@@ -42,3 +42,23 @@ cd backend
 ```bash
 python -m venv venv
 ```
+
+4. Activate the virtual environment:
+
+- For Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+- For macOS and Linux:
+
+```bash
+source venv/bin/activate
+```
+
+5. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
