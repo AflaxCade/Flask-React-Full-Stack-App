@@ -97,7 +97,7 @@ The API will be accessible at http://127.0.0.1:5000/.
  
 Here Json
 
-```bash
+```json
 {
     "firstName": "John",
     "lastName": "Doe",
