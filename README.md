@@ -131,5 +131,19 @@ Here is Json example for creating new contact
   - Status Code: 200 (OK)
   - Body: JSON object with a success message
 
+## For the React Frontend
+
+1. Navigate to the project directory in different terminal:
+
+```bash
+cd frontend
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
