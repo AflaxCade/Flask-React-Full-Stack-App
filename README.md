@@ -152,7 +152,10 @@ npm run dev
 ```
 
 The React app will be accessible at http://localhost:5173.
+
 make sure you are runing both backend and the frontend server at the same time.
+
+### Snapshot of the app
 
 ![App Screenshot](https://github.com/AflaxCade/Flask-React-Full-Stack-App/blob/main/Snapshot.png?raw=true)
 
