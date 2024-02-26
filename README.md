@@ -104,3 +104,18 @@ Here is Json example for creating new contact
     "email": "john.doe@example.com"
 }
 ```
+
+### Update Contact
+
+- **URL**: `/update_contact/<int:user_id>`
+- **Method**: PATCH
+- **Description**: Updates an existing contact
+- **URL Parameters**:
+  - `user_id` (integer): ID of the contact to be updated
+- **Request Body**: JSON object with the following optional properties:
+  - `firstName` (string): Updated first name of the contact
+  - `lastName` (string): Updated last name of the contact
+  - `email` (string): Updated email address of the contact
+- **Response**:
+  - Status Code: 200 (OK)
+  - Body: JSON object with a success message
