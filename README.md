@@ -153,7 +153,7 @@ npm run dev
 
 The React app will be accessible at http://localhost:5173.
 
-make sure you are runing both backend and the frontend server at the same time.
+make sure you are running both backend and the frontend server at the same time.
 
 ### Snapshot of the app
 
