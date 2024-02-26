@@ -119,3 +119,14 @@ Here is Json example for creating new contact
 - **Response**:
   - Status Code: 200 (OK)
   - Body: JSON object with a success message
+
+### Delete Contact
+
+- **URL**: `/delete_contact/<int:user_id>`
+- **Method**: DELETE
+- **Description**: Deletes a contact
+- **URL Parameters**:
+  - `user_id` (integer): ID of the contact to be deleted
+- **Response**:
+  - Status Code: 200 (OK)
+  - Body: JSON object with a success message
