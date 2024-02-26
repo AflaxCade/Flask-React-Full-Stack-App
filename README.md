@@ -151,8 +151,10 @@ npm install
 npm run dev
 ```
 
-The React app will be accessible at http://localhost:5173
+The React app will be accessible at http://localhost:5173.
 make sure you are runing both backend and the frontend server at the same time.
+
+![App Screenshot](https://github.com/AflaxCade/Flask-React-Full-Stack-App/blob/main/Snapshot.png?raw=true)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
