@@ -130,3 +130,6 @@ Here is Json example for creating new contact
 - **Response**:
   - Status Code: 200 (OK)
   - Body: JSON object with a success message
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
