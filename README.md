@@ -157,7 +157,7 @@ make sure you are running both backend and the frontend server at the same time.
 
 ### Snapshot of the app
 
-![App Screenshot](https://github.com/AflaxCade/Flask-React-Full-Stack-App/blob/main/Snapshot.png?raw=true)
+![App Screenshot](https://github.com/AflaxCade/Flask-React-Full-Stack-App/blob/main/Snapshot.png?raw=false)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
